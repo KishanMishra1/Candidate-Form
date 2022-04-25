@@ -274,7 +274,11 @@ h6 {
    #BACKGROUND
    ========================================================================== */
 .bg{
-  background-image: url('https://raw.githubusercontent.com/KishanMishra1/Datasets-Here/main/_25_animated-space-wallpaper-gif_best-free-space-gifs-gfycat.gif');
+  background-image: url("https://i.pinimg.com/originals/8e/85/7c/8e857c515c903053fb4766f68fe96b8b.gif");
+  height: 100%;
+  background-position: center;
+
+  background-size: cover;
 }
 
 /* ==========================================================================
@@ -395,7 +399,7 @@ h6 {
 }
 
 .btn--green {
-  background: #57b846;
+  background: #4dae3c;
 }
 
 .btn--green:hover {
@@ -411,11 +415,11 @@ h6 {
 }
 
 .btn--red {
-  background: #ff4b5a;
+  background: #2c6ed5;
 }
 
 .btn--red:hover {
-  background: #eb3746;
+  background: #2c6ed5;
 }
 .upload-box{
   font-size: 16px;
@@ -428,7 +432,7 @@ h6 {
 }
 ::-webkit-file-upload-button{
   color: white;
-  background:#ff4b5a ;
+  background:#2c6ed5 ;
   padding: 6px;
   border: none;
   border-radius: 50px;
@@ -438,7 +442,7 @@ h6 {
 
 }
 ::-webkit-file-upload-button:hover{
-  background: #eb3746;
+  background: #2c6ed5;
 }
 
 
@@ -576,7 +580,7 @@ td
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  background: #57b846;
+  background: #2c6ed5;
 }
 
 .checkmark {
@@ -775,7 +779,7 @@ td
 
 .card-5 .card-heading {
   padding: 20px 0;
-  background: #1a1a1a;
+  background:#2c6ed5;
   -webkit-border-top-left-radius: 10px;
   -moz-border-radius-topleft: 10px;
   border-top-left-radius: 10px;
